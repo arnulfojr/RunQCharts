@@ -37,3 +37,11 @@ RunQCharts is powered by ApiHistogram too, feel free to check it out.
 - Install ApiHistogram with composer in your project ```composer install arnulfosolis/apihistogram @dev```.
 - Or check out the Qchart's repo: https://github.com/arnulfojr/apihistogram
 - Or Packagist's: https://packagist.org/packages/arnulfosolis/apihistogram
+
+---------------------------------------------------
+
+Contact
+=======
+Arnulfo Solis.
+Email: arnulfojr@kuzzy.com
+Twitter: @arnulfojr
