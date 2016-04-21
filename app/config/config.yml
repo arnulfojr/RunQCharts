@@ -9,17 +9,18 @@ imports:
 parameters:
     locale: en
 
-core:
-    paths:
-    urls:
+# QCharts configuration!
+qcharts:
+    paths: # use defaults
+    urls: # use defaults
     limits:
-        row: 1500
-        time: 2
+        row: 1500 # rows
+        time: 2 # seconds
     roles:
         user: ROLE_USER
         admin: ROLE_ADMIN
         super_admin: ROLE_SUPER_ADMIN
-    charts:
+    charts: # use defaults
 
 fos_user:
     db_driver: orm

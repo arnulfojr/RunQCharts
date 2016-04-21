@@ -82,12 +82,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/arnulfojr/qcharts.git",
-                "reference": "00ba10a9d7a1c0ab88934c66b45c5cc817afc7b6"
+                "reference": "f9acba6aba50cd465a3abe1d28e251cced8b6874"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/arnulfojr/qcharts/zipball/00ba10a9d7a1c0ab88934c66b45c5cc817afc7b6",
-                "reference": "00ba10a9d7a1c0ab88934c66b45c5cc817afc7b6",
+                "url": "https://api.github.com/repos/arnulfojr/qcharts/zipball/f9acba6aba50cd465a3abe1d28e251cced8b6874",
+                "reference": "f9acba6aba50cd465a3abe1d28e251cced8b6874",
                 "shasum": ""
             },
             "require": {
@@ -141,7 +141,7 @@
                 "query",
                 "sql"
             ],
-            "time": "2016-04-18 21:51:18"
+            "time": "2016-04-21 20:30:00"
         },
         {
             "name": "doctrine/annotations",
