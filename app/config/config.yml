@@ -11,6 +11,7 @@ parameters:
 
 # QCharts configuration!
 qcharts:
+    allow_demo_users: true
     paths: # use defaults
     urls: # use defaults
     limits:
