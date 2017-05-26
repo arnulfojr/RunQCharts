@@ -1,0 +1,11 @@
+version: '2'
+services:
+    qcharts-database:
+        image: mysql/mysql-server:5.7
+        ports:
+            - 5001:3306/tcp
+        environment:
+          MYSQL_ROOT_PASSWORD: run_qcharts_pwd
+          MYSQL_DATABASE: run_qcharts
+          MYSQL_USER: qcharts
+          MYSQL_PASSWORD: run_qcharts_pwd
