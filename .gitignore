@@ -1,7 +1,10 @@
 app/config/parameters.yml
 app/bootstrap.php.cache
+app/SymfonyRequirements.php
+app/check.php
 /.idea
 .DS_Store
+*.swp
 /bin/*
 /vendor
 /app/logs/*

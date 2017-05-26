@@ -15,10 +15,11 @@ RunQCharts includes a ```composer.json``` file and the corresponding
 ```composer.lock``` file used to get RunQCharts up and running.
 - The only installation you should follow would be with composer without
 dev dependencies!
-```composer install --no-dev```
+```composer install```
 - And, of course, set up your parameter's file ```parameters.yml```.
 - Dump Assetic, ```app/console assetic:dump```.
 - Install Assets, ```app/console assets:install```.
+- Set up the database with `app/console doctrine:schema:create` or `app/console doctrine:schema:update`
 - This QCharts implementation uses ApiBundle, hence no ApiDoc from
 Nelmio is implemented, for more information about the matter, check out
 the QCharts Repo.
