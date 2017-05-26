@@ -3,3 +3,7 @@
 app/config/parameters.yml
 /.idea
 .DS_Store
+/web/js/*
+/web/bundles/*
+/web/images/*
+/web/css/*
