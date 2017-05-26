@@ -1,8 +1,11 @@
-/bin/*
-/vendor
 app/config/parameters.yml
+app/bootstrap.php.cache
 /.idea
 .DS_Store
+/bin/*
+/vendor
+/app/logs/*
+/app/cache/*
 /web/js/*
 /web/bundles/*
 /web/images/*
