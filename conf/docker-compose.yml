@@ -14,4 +14,3 @@ services:
           POSTGRES_PASSWORD: run_qcharts_pwd
           POSTGRES_DB: run_qcharts
           POSTGRES_USER: qcharts
-          POSTGRES_PASSWORD: run_qcharts_pwd

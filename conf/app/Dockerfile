@@ -21,4 +21,5 @@ RUN chmod -R 777 /var/www/html/app/cache/
 RUN chmod -R 777 /var/www/html/app/logs/
 
 RUN ln -sv /etc/apache2/mods-available/rewrite.load /etc/apache2/mods-enabled/rewrite.load
+RUN cp -f /var/www/html/conf/app/qcharts.conf /etc/apache2/sites-available/000-default.conf
 
